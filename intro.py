@@ -1,0 +1,1 @@
+print ("Hello\n My name is Sachit Sunil\n I am from class F-100\n Section B\n USN 1RUA24SCS0097")
